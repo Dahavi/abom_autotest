@@ -1,6 +1,5 @@
 import pytest
 from selene.api import browser
-from .pages.main_page import MainPage
 from .pages.users import Users as u
 from .pages.products import Products as p
 from .pages.pages import Pages

@@ -1,5 +1,4 @@
 from selene import by
-from selenium.webdriver.common.by import By
 from selene.support.shared.jquery_style import s, ss
 
 

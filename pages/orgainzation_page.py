@@ -1,8 +1,6 @@
 import time
-
-from selene import be
 from selene.support.conditions.be import visible, enabled, disabled, not_
-from selenium.webdriver import Chrome
+
 
 from .base_page import BasePage
 from .locators import OrganizationPageLocators as OPL
