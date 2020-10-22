@@ -8,7 +8,7 @@ from .pages.pages import Pages
 link ='http://test14.tk-alpha.ru'
 
 
-@pytest.mark.sel3
+@pytest.mark.hell2
 def test_DD_basket():
     page = Pages(browser)
     page.open(link)
